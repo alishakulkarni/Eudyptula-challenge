@@ -1,0 +1,1 @@
+cmd_/home/aliskulk/Desktop/Eudyptula/Task01/modules.order := {   echo /home/aliskulk/Desktop/Eudyptula/Task01/task01.ko; :; } | awk '!x[$$0]++' - > /home/aliskulk/Desktop/Eudyptula/Task01/modules.order

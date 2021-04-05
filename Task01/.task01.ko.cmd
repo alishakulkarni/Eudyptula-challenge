@@ -1,0 +1,1 @@
+cmd_/home/aliskulk/Desktop/Eudyptula/Task01/task01.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/aliskulk/Desktop/Eudyptula/Task01/task01.ko /home/aliskulk/Desktop/Eudyptula/Task01/task01.o /home/aliskulk/Desktop/Eudyptula/Task01/task01.mod.o;  true
